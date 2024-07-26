@@ -1,0 +1,127 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2458win64openssl313php8030
+MySQL version 		: 10.4.32
+XML Reader 		: Yes
+PHP Version 		: 8.0.30
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 40M
+PHP Extension GD 	: No
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 40 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 07:18:41 UTC
+---
+
+Deleted customizer Settings {"featured_images":false,"breadcrumb":false,"cta_button":false,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call to Action","cta_url":"#nogo","featured_content":null,"testimonials":0,"testimonial_title":null,"google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":null,"teammember1":null,"teammember2":null,"teammember3":null,"feature1":null,"feature2":null,"feature3":null,"responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"default","site_layout_option":"boxed","button_style":"default","home-widgets":false,"site_footer_option":"footer-3-col","res_hide_site_title":false,"res_hide_tagline":true,"stumbleupon_uid":""}
+Deleted - Site Options []
+Inserted WP Form 119
+Inserted WP Form 121
+Importing from XML https://ccreadysites.cyberchimps.com/wp-content/uploads/sites/272/wxr.xml
+Inserted - Term 21 - {"term_id":21,"name":"Menu1","slug":"menu1","term_group":0,"term_taxonomy_id":21,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 38 - attachment - Orange-Gold-Modern-Seven-Star-Company-Logo
+Inserted - Post 123 - attachment - cropped-Orange-Gold-Modern-Seven-Star-Company-Logo.png
+Inserted - Post 124 - attachment - Orange-Gold-Modern-Seven-Star-Company-Logo
+Inserted - Post 43 - attachment - cropped-Orange-Gold-Modern-Seven-Star-Company-Logo.jpg
+Inserted - Post 125 - attachment - 2
+Inserted - Post 46 - attachment - cropped-2.jpg
+Inserted - Post 51 - attachment - amy-hirschi-b3AYk8HKCl0-unsplash
+Inserted - Post 167 - attachment - amy-hirschi-frDwhQc9Stk-unsplash
+Inserted - Post 200 - attachment - 3
+Inserted - Post 201 - attachment - cropped-3.jpg
+Inserted - Post 767 - attachment - pexels-august-de-richelieu-4427424
+Inserted - Post 768 - attachment - pexels-august-de-richelieu-4427430
+Inserted - Post 880 - attachment - download
+Inserted - Post 1084 - attachment - Leader Starter Template &#8211; Hero Image
+Inserted - Post 1085 - attachment - Leader Starter Template &#8211; The conceptional leader of our generation and about the candidate
+Inserted - Post 1086 - attachment - Leader Starter Template &#8211; Catch up with the latest news-2
+Inserted - Post 1087 - attachment - Leader Starter Template &#8211; Women Rights Campaign
+Inserted - Post 1088 - attachment - Leader Starter Template &#8211; Human Rights campaign
+Inserted - Post 1089 - attachment - Leader Starter Template &#8211; Your Contribution helps us &amp; your donation helps us
+Inserted - Post 1090 - attachment - Leader Starter Template &#8211; Catch up with the latest news-1
+Inserted - Post 1091 - attachment - Leader Starter Template &#8211; Catch up with the latest news-3
+Inserted - Post 1092 - attachment - Leader Starter Template &#8211; newsletter
+Inserted - Post 1097 - attachment - Leader Starter Template &#8211; Our community
+Inserted - Post 1098 - attachment - Leader Starter Template &#8211; Meet our members
+Inserted - Post 1099 - attachment - Leader Starter Template &#8211; Gallery 1
+Inserted - Post 1100 - attachment - Leader Starter Template &#8211; Gallery 2
+Inserted - Post 1101 - attachment - Leader Starter Template &#8211; Gallery 3
+Inserted - Post 1102 - attachment - Leader Starter Template &#8211; Gallery 4
+Inserted - Post 1103 - attachment - Leader Starter Template &#8211; Gallery 5
+Inserted - Post 1104 - attachment - Leader Starter Template &#8211; Gallery 6
+Inserted - Post 1109 - attachment - Leader Starter Template &#8211; Legend Speakers 1
+Inserted - Post 1110 - attachment - Leader Starter Template &#8211; Legend Speakers 2
+Inserted - Post 1111 - attachment - Leader Starter Template &#8211; Legend Speakers 3
+Inserted - Post 1115 - attachment - Leader Starter Template &#8211; Gallery 1
+Inserted - Post 1116 - attachment - Leader Starter Template &#8211; Gallery 2
+Inserted - Post 1117 - attachment - Leader Starter Template &#8211; Gallery 3
+Inserted - Post 1118 - attachment - Leader Starter Template &#8211; Gallery 4
+Inserted - Post 1119 - attachment - Leader Starter Template &#8211; Gallery 5
+Inserted - Post 1120 - attachment - Leader Starter Template &#8211; Gallery 6
+Inserted - Post 1130 - attachment - Leader Starter Template &#8211; Gallery 1
+Inserted - Post 1131 - attachment - Leader Starter Template &#8211; Gallery 2
+Inserted - Post 1132 - attachment - Leader Starter Template &#8211; Gallery 3
+Inserted - Post 1133 - attachment - Leader Starter Template &#8211; Gallery 4
+Inserted - Post 1134 - attachment - Leader Starter Template &#8211; Gallery 5
+Inserted - Post 1135 - attachment - Leader Starter Template &#8211; Gallery 6
+Inserted - Post 1145 - attachment - Leader Starter Template &#8211; Gallery 1
+Inserted - Post 1146 - attachment - Leader Starter Template &#8211; Gallery 2
+Inserted - Post 1147 - attachment - Leader Starter Template &#8211; Gallery 3
+Inserted - Post 1148 - attachment - Leader Starter Template &#8211; Gallery 4
+Inserted - Post 1149 - attachment - Leader Starter Template &#8211; Gallery 5
+Inserted - Post 1150 - attachment - Leader Starter Template &#8211; Gallery 6
+Inserted - Post 1154 - attachment - Leader Starter Template &#8211; Gallery 1
+Inserted - Post 1155 - attachment - Leader Starter Template &#8211; Gallery 2
+Inserted - Post 1156 - attachment - Leader Starter Template &#8211; Gallery 3
+Inserted - Post 1157 - attachment - Leader Starter Template &#8211; Gallery 4
+Inserted - Post 1158 - attachment - Leader Starter Template &#8211; Gallery 5
+Inserted - Post 1159 - attachment - Leader Starter Template &#8211; Gallery 6
+Inserted - Post 1192 - attachment - 4-mobikle
+Inserted - Post 1193 - attachment - Leader starter template &#8211; Mobile logo
+Inserted - Post 1198 - attachment - Leader-Starter-Template-Logo
+Inserted - Post 1199 - elementor_library - Default Kit
+Inserted - Post 1200 - page - Home
+Inserted - Post 1201 - page - About
+Inserted - Post 1202 - page - Campaigns
+Inserted - Post 1203 - page - News
+Inserted - Post 1204 - page - Contact
+Inserted - Post 1205 - post - Who among us has ever engaged in taxing physical activity.
+Inserted - Post 30 - post - Loves, pursues, or seeks out Suffering.
+Inserted - Post 533 - elementor_library - Footer
+Inserted - Post 561 - elementor_library - Contact Form
+Inserted - Post 1206 - attachment - Leader-Starter-Template&#8212;Logo
+Inserted - Post 1207 - attachment - Leader Starter Template &#8211; Catch up with the latest news-1
+Inserted - Post 1208 - attachment - Leader Starter Template &#8211; Catch up with the latest news-2
+Inserted - Post 1209 - attachment - Leader Starter Template &#8211; Catch up with the latest news-3
+Inserted - Post 1262 - nav_menu_item - 
+Inserted - Post 1263 - nav_menu_item - 
+Inserted - Post 1264 - nav_menu_item - 
+Inserted - Post 1265 - nav_menu_item - 
+Inserted - Post 1266 - nav_menu_item - 
+Inserted - Post 1268 - attachment - Gina-signature
+Inserted - Post 1269 - post - Hello world!
+Inserted - Post 1270 - post - In a variety of conventional banner sizes and colours.
+Inserted - Post 550 - wp_block - Email Address (Reusable)
+Inserted - Post 551 - wp_block - Password (Reusable)
+Inserted - Post 552 - wp_block - First and Last Name (Reusable)
+Inserted - Post 553 - wp_block - Address (Reusable)
+Inserted - Post 554 - wp_block - Phone Number (Reusable)
+Inserted - Post 555 - wp_block - Public Display Name (Reusable)
+Imported Customizer Settings {"theme_mods_responsive":{"0":false,"nav_menu_locations":{"header-menu":22},"responsive_container_width":1140,"custom_css_post_id":-1,"button_typography":{"font-family":"'Roboto', sans-serif","font-weight":"400","line-height":"1.25"},"background_color":"ffffff","responsive_link_color":"#333333","responsive_link_hover_color":"#c1292e","responsive_button_color":"#c1292e","responsive_button_hover_color":"#ea9193","responsive_button_hover_border_color":"rgba(194,41,46,0)","responsive_button_border_color":"rgba(2,18,79,0)","body_typography":{"font-family":"'Roboto', sans-serif","font-weight":"400","font-size":"17px"},"headings_typography":{"font-family":"'Playfair Display', serif","font-weight":"400"},"heading_h1_typography":{"font-family":"'Playfair Display', serif","font-weight":"400","font-size":"40px"},"heading_h2_typography":{"font-family":"'Playfair Display', serif","font-weight":"400","font-size":"38px"},"heading_h3_typography":{"font-family":"'Playfair Display', serif","font-weight":"400","font-size":"26px"},"heading_h4_typography":{"font-family":"'Playfair Display', serif","font-weight":"400","font-size":"22px"},"heading_h5_typography":{"font-family":"'Playfair Display', serif","font-weight":"400","font-size":"16px"},"heading_h6_typography":{"font-family":"'Playfair Display', serif","font-weight":"400"},"meta_typography":{"font-family":"'Roboto', sans-serif","font-weight":"400"},"custom_logo":1202,"responsive_inline_logo_site_title":0,"responsive_header_full_width":1,"responsive_enable_header_bottom_border":1,"header_site_title_typography":{"font-size":"0","font-family":"'Playfair Display', serif","font-weight":"400"},"responsive_menu_last_item":"none","responsive_menu_button_text":"Join Our Community","header_menu_typography":{"font-family":"'Roboto', sans-serif","font-weight":"500","font-size":"16px"},"responsive_header_sub_menu_link_hover_color":"#021350","responsive_header_menu_link_color":"#984e4e","responsive_header_active_menu_link_color":"#021350","responsive_header_menu_link_hover_color":"#021350","responsive_header_sub_menu_link_color":"#c1292e","responsive_button_text_color":"#ffffff","responsive_hide_title":1,"responsive_header_top_padding":"20","responsive_header_left_padding":"20","responsive_header_bottom_padding":"20","responsive_header_right_padding":"20","responsive_bottom_border":"1","input_typography":{"font-family":"'Playfair Display', serif","font-weight":"400"},"responsive_inputs_top_padding":"15","responsive_inputs_left_padding":"15","responsive_inputs_bottom_padding":"15","responsive_inputs_right_padding":"15","responsive_inputs_border_width":"0.9","responsive_inputs_background_color":"rgba(255,255,255,0.8)","responsive_inputs_text_color":"#000000","responsive_inputs_border_color":"rgba(15,15,15,0)","responsive_label_color":"#ffffff","responsive_buttons_top_padding":"15.375","responsive_buttons_left_padding":"38.925","responsive_buttons_bottom_padding":"15.375","responsive_buttons_right_padding":"38.925","responsive_footer_background_color":"#021350","responsive_footer_widgets_columns":"0","footer_typography":{"font-family":"'Playfair Display', serif","font-weight":"400"},"responsive_blog_single_meta":["date","author","categories","comments","tag"],"responsive_blog_entry_meta":["date","author","categories","comments"],"responsive_blog_content_width":"60","responsive_page_sidebar_position":"no","responsive_blog_sidebar_position":"no","responsive_single_blog_sidebar_position":"no","responsive_meta_text_color":"#000000","responsive_breadcrumb_position":"before","content_header_heading_typography":{"font-family":"'Roboto', sans-serif","font-weight":"400"},"responsive_buttons_radius":"5","responsive_h4_text_color":"#ffffff","content_header_description_typography":{"font-family":"'Roboto', sans-serif","font-weight":"400"},"breadcrumb_typography":{"font-family":"'Roboto', sans-serif","font-weight":"400"},"responsive_button_hover_text_color":"#010101","responsive_inputs_radius":"5","responsive_mobile_logo":0,"responsive_retina_logo":0,"responsive_mobile_logo_option":0,"responsive_header_mobile_top_padding":"02","responsive_header_mobile_right_padding":"0","responsive_header_mobile_bottom_padding":"2","responsive_header_mobile_left_padding":"0","responsive_header_tablet_top_padding":"5","responsive_header_tablet_right_padding":"5","responsive_header_tablet_bottom_padding":"5","responsive_header_tablet_left_padding":"5","responsive_sub_menu_border_top_padding":"0","responsive_sub_menu_border_left_padding":"0","responsive_sub_menu_border_bottom_padding":"0","responsive_sub_menu_border_right_padding":"0","responsive_sub_menu_container_top_offset":0,"responsive_blog_entry_content_type":"excerpt","responsive_box_background_color":"#ffffff","responsive_single_blog_content_width":"100","responsive_blog_entry_read_more_type":"button"},"responsive_settings":{"featured_images":false,"breadcrumb":1,"cta_button":false,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call to Action","cta_url":"#nogo","featured_content":null,"testimonials":0,"testimonial_title":null,"google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":null,"teammember1":null,"teammember2":null,"teammember3":null,"feature1":null,"feature2":null,"feature3":null,"responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"default","site_layout_option":"boxed","button_style":"default","home-widgets":false,"site_footer_option":"footer-3-col","res_hide_site_title":false,"res_hide_tagline":true,"stumbleupon_uid":""},"custom_css":""}
+Old Responsive Theme Options {"featured_images":false,"breadcrumb":false,"cta_button":false,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call to Action","cta_url":"#nogo","featured_content":null,"testimonials":0,"testimonial_title":null,"google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":null,"teammember1":null,"teammember2":null,"teammember3":null,"feature1":null,"feature2":null,"feature3":null,"responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"default","site_layout_option":"boxed","button_style":"default","home-widgets":false,"site_footer_option":"footer-3-col","res_hide_site_title":false,"res_hide_tagline":true,"stumbleupon_uid":""}
+Backup - Responsive Theme Mods {"0":false,"nav_menu_locations":[],"responsive_container_width":1140,"custom_css_post_id":-1}
+Imported - Widgets {"main-sidebar":{"block-2":{"content":"<!-- wp:search \/-->"},"block-3":{"content":"<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts<\/h2><!-- \/wp:heading --><!-- wp:latest-posts \/--><\/div><!-- \/wp:group -->"},"block-4":{"content":"<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments<\/h2><!-- \/wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} \/--><\/div><!-- \/wp:group -->"},"block-5":{"content":"<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives<\/h2><!-- \/wp:heading --><!-- wp:archives \/--><\/div><!-- \/wp:group -->"},"block-6":{"content":"<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories<\/h2><!-- \/wp:heading --><!-- wp:categories \/--><\/div><!-- \/wp:group -->"}}}
+Imported - Site Options {"custom_logo":"1202","show_on_front":"page","page_on_front":"Home","page_for_posts":"News","nav_menu_locations":false,"wpforms_settings":{"modern-markup":"0","modern-markup-is-set":true},"elementor_container_width":false,"elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":false,"elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":false,"elementor_global_image_lightbox":false,"elementor_page_title_selector":false,"elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":false,"elementor_stretched_section_container":false}
+Complete 
+Batch Process Started!
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+Batch Process Complete!

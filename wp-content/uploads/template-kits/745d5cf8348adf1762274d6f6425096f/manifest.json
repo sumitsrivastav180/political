@@ -1,0 +1,795 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Politics - Political Candidate\/Political Leader Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Archives",
+            "screenshot": "screenshots\/blog-archives.jpg",
+            "source": "templates\/blog-archives.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/blog-archives\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Honored Member",
+            "screenshot": "screenshots\/honored-member.jpg",
+            "source": "templates\/honored-member.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/honored-member\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Biography",
+            "screenshot": "screenshots\/biography.jpg",
+            "source": "templates\/biography.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/biography\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Event",
+            "screenshot": "screenshots\/event.jpg",
+            "source": "templates\/event.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/event\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Candidate",
+            "screenshot": "screenshots\/home-candidate.jpg",
+            "source": "templates\/home-candidate.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/home-candidate\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Party",
+            "screenshot": "screenshots\/home-party.jpg",
+            "source": "templates\/home-party.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/home-party\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Become A Volunteer",
+            "screenshot": "screenshots\/become-a-volunteer.jpg",
+            "source": "templates\/become-a-volunteer.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/become-a-volunteer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Me",
+            "screenshot": "screenshots\/about-me.jpg",
+            "source": "templates\/about-me.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/about-me\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "http:\/\/tykit.rometheme.pro\/politics\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Contact Form 7",
+            "version": "5.4.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        }
+    ],
+    "images": [
+        {
+            "filename": "liquid.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/liquid-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog-archives.json",
+                    "name": "Blog Archives"
+                },
+                {
+                    "source": "templates\/honored-member.json",
+                    "name": "Honored Member"
+                },
+                {
+                    "source": "templates\/biography.json",
+                    "name": "Biography"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                },
+                {
+                    "source": "templates\/home-party.json",
+                    "name": "Home Party"
+                },
+                {
+                    "source": "templates\/become-a-volunteer.json",
+                    "name": "Become A Volunteer"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 280072,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "city-6BZFHWJ.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/city-6BZFHWJ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                },
+                {
+                    "source": "templates\/home-party.json",
+                    "name": "Home Party"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 256724,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6BZFHWJ"
+        },
+        {
+            "filename": "LOGO.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/09\/LOGO.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 20168,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "rear-view-of-people-with-placards-and-posters-on-g-SPDLWRC.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/rear-view-of-people-with-placards-and-posters-on-g-SPDLWRC-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog-archives.json",
+                    "name": "Blog Archives"
+                },
+                {
+                    "source": "templates\/honored-member.json",
+                    "name": "Honored Member"
+                },
+                {
+                    "source": "templates\/biography.json",
+                    "name": "Biography"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                },
+                {
+                    "source": "templates\/become-a-volunteer.json",
+                    "name": "Become A Volunteer"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 222547,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SPDLWRC"
+        },
+        {
+            "filename": "group-of-people-in-rally-protesting-GJDCNC7.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/group-of-people-in-rally-protesting-GJDCNC7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/honored-member.json",
+                    "name": "Honored Member"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                }
+            ],
+            "filesize": 226330,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GJDCNC7"
+        },
+        {
+            "filename": "smiling-businessman-sitting-in-office-2021-04-04-04-47-28-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/09\/smiling-businessman-sitting-in-office-2021-04-04-04-47-28-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/honored-member.json",
+                    "name": "Honored Member"
+                }
+            ],
+            "filesize": 237715,
+            "dimensions": [
+                367,
+                448
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-businessman-sitting-in-office-8K26BX3"
+        },
+        {
+            "filename": "portrait-of-a-businessman-holding-glasses-looking-PDA84MN.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/09\/portrait-of-a-businessman-holding-glasses-looking-PDA84MN-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/honored-member.json",
+                    "name": "Honored Member"
+                }
+            ],
+            "filesize": 245796,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDA84MN"
+        },
+        {
+            "filename": "smiling-successful-indian-businessman-looking-at-c-VTEYL9Q.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/09\/smiling-successful-indian-businessman-looking-at-c-VTEYL9Q-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/honored-member.json",
+                    "name": "Honored Member"
+                }
+            ],
+            "filesize": 223734,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VTEYL9Q"
+        },
+        {
+            "filename": "handsome-young-businessman-at-workplace-looking-at-JMCRL9E.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/09\/handsome-young-businessman-at-workplace-looking-at-JMCRL9E-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/honored-member.json",
+                    "name": "Honored Member"
+                }
+            ],
+            "filesize": 236708,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JMCRL9E"
+        },
+        {
+            "filename": "handsome-confident-entrepreneur.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/handsome-confident-entrepreneur.png",
+            "templates": [
+                {
+                    "source": "templates\/biography.json",
+                    "name": "Biography"
+                },
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                }
+            ],
+            "filesize": 243474,
+            "dimensions": [
+                363,
+                551
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2JTX9C3"
+        },
+        {
+            "filename": "signature.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/signature-800x198.png",
+            "templates": [
+                {
+                    "source": "templates\/biography.json",
+                    "name": "Biography"
+                },
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                }
+            ],
+            "filesize": 19829,
+            "dimensions": [
+                903,
+                224
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "politician-speaking-during-election-campaign-VJHX865.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/politician-speaking-during-election-campaign-VJHX865-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/biography.json",
+                    "name": "Biography"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 237449,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VJHX865"
+        },
+        {
+            "filename": "political-announcement-MH2YVHA.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/political-announcement-MH2YVHA-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/biography.json",
+                    "name": "Biography"
+                },
+                {
+                    "source": "templates\/home-party.json",
+                    "name": "Home Party"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 182991,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MH2YVHA"
+        },
+        {
+            "filename": "speech-of-delegate-38STXWL.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/speech-of-delegate-38STXWL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/biography.json",
+                    "name": "Biography"
+                },
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                },
+                {
+                    "source": "templates\/home-party.json",
+                    "name": "Home Party"
+                }
+            ],
+            "filesize": 197308,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-38STXWL"
+        },
+        {
+            "filename": "liquifer1.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/liquifer1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/biography.json",
+                    "name": "Biography"
+                },
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                },
+                {
+                    "source": "templates\/become-a-volunteer.json",
+                    "name": "Become A Volunteer"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 249171,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "handsome-confident-entrepreneur-2JTX9C3.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/handsome-confident-entrepreneur-2JTX9C3.png",
+            "templates": [
+                {
+                    "source": "templates\/biography.json",
+                    "name": "Biography"
+                },
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                },
+                {
+                    "source": "templates\/home-party.json",
+                    "name": "Home Party"
+                },
+                {
+                    "source": "templates\/become-a-volunteer.json",
+                    "name": "Become A Volunteer"
+                }
+            ],
+            "filesize": 126048,
+            "dimensions": [
+                276,
+                408
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2JTX9C3"
+        },
+        {
+            "filename": "political-speech-PKDPTDB.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/political-speech-PKDPTDB-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                },
+                {
+                    "source": "templates\/home-party.json",
+                    "name": "Home Party"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 198894,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKDPTDB"
+        },
+        {
+            "filename": "thirteen-star-flag-of-the-united-states-P96KCQY.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/thirteen-star-flag-of-the-united-states-P96KCQY-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                },
+                {
+                    "source": "templates\/home-party.json",
+                    "name": "Home Party"
+                }
+            ],
+            "filesize": 237745,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P96KCQY"
+        },
+        {
+            "filename": "bg1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/bg1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                }
+            ],
+            "filesize": 232717,
+            "dimensions": [
+                960,
+                640
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "business-team-raising-their-hands-up-to-celebrate-B2ZYYE9.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/business-team-raising-their-hands-up-to-celebrate-B2ZYYE9-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                },
+                {
+                    "source": "templates\/home-party.json",
+                    "name": "Home Party"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 233913,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B2ZYYE9"
+        },
+        {
+            "filename": "people-with-placards-and-posters-on-global-strike-95ASU6D.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/people-with-placards-and-posters-on-global-strike-95ASU6D-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-candidate.json",
+                    "name": "Home Candidate"
+                }
+            ],
+            "filesize": 188630,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-95ASU6D"
+        },
+        {
+            "filename": "four-young-multicultural-volunteers-in-white-t-shi-NBY778K.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/politics\/wp-content\/uploads\/sites\/24\/2021\/08\/four-young-multicultural-volunteers-in-white-t-shi-NBY778K-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/become-a-volunteer.json",
+                    "name": "Become A Volunteer"
+                }
+            ],
+            "filesize": 208369,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NBY778K"
+        }
+    ]
+}
